@@ -1,0 +1,29 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.yucheng.ycbtsdk"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/wanghaofei/Documents/tianhe/sungo_android/bundle-ycsdktwo/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/wanghaofei/Documents/tianhe/sungo_android/bundle-ycsdktwo/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->/Users/wanghaofei/Documents/tianhe/sungo_android/bundle-ycsdktwo/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/wanghaofei/Documents/tianhe/sungo_android/bundle-ycsdktwo/src/main/AndroidManifest.xml:5:22-65
+12    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+12-->/Users/wanghaofei/Documents/tianhe/sungo_android/bundle-ycsdktwo/src/main/AndroidManifest.xml:6:5-73
+12-->/Users/wanghaofei/Documents/tianhe/sungo_android/bundle-ycsdktwo/src/main/AndroidManifest.xml:6:22-71
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->/Users/wanghaofei/Documents/tianhe/sungo_android/bundle-ycsdktwo/src/main/AndroidManifest.xml:7:5-81
+13-->/Users/wanghaofei/Documents/tianhe/sungo_android/bundle-ycsdktwo/src/main/AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/Users/wanghaofei/Documents/tianhe/sungo_android/bundle-ycsdktwo/src/main/AndroidManifest.xml:8:5-80
+14-->/Users/wanghaofei/Documents/tianhe/sungo_android/bundle-ycsdktwo/src/main/AndroidManifest.xml:8:22-78
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->/Users/wanghaofei/Documents/tianhe/sungo_android/bundle-ycsdktwo/src/main/AndroidManifest.xml:9:5-79
+15-->/Users/wanghaofei/Documents/tianhe/sungo_android/bundle-ycsdktwo/src/main/AndroidManifest.xml:9:22-77
+16
+17</manifest>
